@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://EduardMLT.github.io/TastyTreats_my",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TastyTreats/",
+    "build": "vite build --base=/TastyTreats_my/",
     "preview": "vite preview"
   },
   "devDependencies": {
